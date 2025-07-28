@@ -1,0 +1,32 @@
+name: shift_handover_challenge
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^8.0.3
+  injectable: ^2.5.0
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+  auto_route: ^10.1.0+1
+  intl: ^0.20.2
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  bloc_test: ^10.0.0
+  build_runner: ^2.5.4 # Since injectable_generator depends on build ^2.4.2, we gotta go with this version for now
+  injectable_generator: ^2.7.0
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
