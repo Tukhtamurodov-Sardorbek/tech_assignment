@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/01_shift_handover_challenge/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/01_shift_handover_challenge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01_shift_handover_challenge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/my_flutter_native_timezone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/my_flutter_native_timezone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02_bugfixes/my_flutter_native_timezone/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
